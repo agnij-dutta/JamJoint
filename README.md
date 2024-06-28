@@ -2,7 +2,7 @@
 
 ## Overview
 
-JamJoint is a cutting-edge online platform designed to bring together musicians, bands, and music enthusiasts from around the world. It leverages Amplication to build a fully functional backend service with minimal development time. This readme aims to provide a comprehensive guide to understanding, using, and extending JamJoint's capabilities.
+JamJoint is a cutting-edge online platform designed to bring together musicians, bands, and music enthusiasts from around the world. It leverages typescript to build a fully functional backend service with minimal development time. This readme aims to provide a comprehensive guide to understanding, using, and extending JamJoint's capabilities.
 
 ## Purpose
 
