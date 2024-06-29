@@ -30,7 +30,7 @@ JamJoint serves as a community hub where musicians can collaborate on projects, 
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/your-repo/JamJoint.git
+git clone [https://github.com/your-repo/JamJoint.git](https://github.com/agnij-dutta/JamJoint.git)
 cd JamJoint
 ```
 ### Step 2: Install Dependencies
