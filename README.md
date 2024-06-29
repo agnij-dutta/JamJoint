@@ -15,8 +15,7 @@ JamJoint serves as a community hub where musicians can collaborate on projects, 
 - **TypeScript:** A typed superset of JavaScript that compiles to plain JavaScript.
 - **NestJS:** A framework for building efficient and scalable server-side applications.
 - **Prisma:** An ORM tool for database modeling and querying.
-- **Amplication:** Automating the backend creation involving REST and GraphQL APIs, authentication, and more.
-
+- 
 ### Frontend:
 - **React:** A JavaScript library for building user interfaces.
 - **Apollo Client:** For interacting with GraphQL APIs.
